@@ -25,5 +25,4 @@ The main goal of this project is to learn and apply:
 ---
 
 
-   git clone https://github.com/your-username/amazon-clone.git
 
